@@ -1,4 +1,4 @@
-This workflow toggles (showing/hiding) icons and/or (using key modifiers) widgets on your desktop.
+This simple workflow toggles (showing/hiding) icons and/or (using key modifiers) widgets on your desktop.
 
 Useful for screencasting (and spy obviously 😆)
 
