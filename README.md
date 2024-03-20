@@ -4,9 +4,29 @@ Useful for screencasting (and spy obviously 😆)
 
 ## Key modifiers
 
-Use **CMD** to hide only desktop icons
+Use **Option** key to hide only desktop icons
 
-Use **Option** to hide only desktop widgets
+Use **CMD** key to hide only desktop widgets
+
+---
+
+## Examples
+
+### Hide all
+
+![Hide Mac OS Sonoma widgets and desktop icons Alfred 5 Workflow](/previews/hide.gif "Hide Mac OS Sonoma widgets and desktop icons")
+
+### Hide icons
+
+Use **Option** key to hide only desktop icons
+
+![Hide Mac OS Desktop icons Alfred 5 Workflow](/previews/hideicons.gif "Hide Mac OS Desktop icons")
+
+### hide Mac OS Sonoma desktop widgets
+
+Use **CMD** key to hide only desktop widgets
+
+![Hide Mac OS Sonoma desktop widgets Alfred 5 Workflow](/previews/hidewidgets.gif "Hide Mac OS Sonoma desktop widgets")
 
 ---
 
