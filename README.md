@@ -14,19 +14,19 @@ Use **CMD** key to hide only desktop widgets
 
 ### Hide all
 
-![Hide Mac OS Sonoma widgets and desktop icons Alfred 5 Workflow](/previews/hide.gif "Hide Mac OS Sonoma widgets and desktop icons")
+![Hide Mac OS Sonoma widgets and desktop icons Alfred 5 Workflow](/previews/hide-min.gif "Hide Mac OS Sonoma widgets and desktop icons")
 
 ### Hide icons
 
 Use **Option** key to hide only desktop icons
 
-![Hide Mac OS Desktop icons Alfred 5 Workflow](/previews/hideicons.gif "Hide Mac OS Desktop icons")
+![Hide Mac OS Desktop icons Alfred 5 Workflow](/previews/hideicons-min.gif "Hide Mac OS Desktop icons")
 
 ### hide Mac OS Sonoma desktop widgets
 
 Use **CMD** key to hide only desktop widgets
 
-![Hide Mac OS Sonoma desktop widgets Alfred 5 Workflow](/previews/hidewidgets.gif "Hide Mac OS Sonoma desktop widgets")
+![Hide Mac OS Sonoma desktop widgets Alfred 5 Workflow](/previews/hidewidgets-min.gif "Hide Mac OS Sonoma desktop widgets")
 
 ---
 
